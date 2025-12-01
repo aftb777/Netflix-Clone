@@ -2,10 +2,6 @@
 
 A simple and clean **Netflix landing page clone** built using **HTML & CSS**. This project recreates the Netflix homepage UI with a responsive layout and modern styling.
 
-## 🚀 Live Demo
-_Add your deployed link here_
-https://your-deployment-link.com
-
 ## 🧩 Features
 - Hero section with main title, subtext & call-to-action  
 - TV, Mobile & Kids feature sections  
@@ -40,11 +36,6 @@ start netflix.html    # Windows
 ```
 Or use the VS Code **Live Server** extension.
 
-## 📸 Screenshots
-(Add your screenshots here)
-```
-![Netflix Clone Screenshot](./screenshot.png)
-```
 
 ## 🔍 What You’ll Learn
 - Building structured landing pages  
